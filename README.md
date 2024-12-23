@@ -11,5 +11,8 @@ Programming Language: Java
 GUI Library: Swing
 
 ## Screenshots
+
 Here is a preview of the Calculator App:
-![Calculator Screenshot] (calculator-screenshot.png)
+
+![Calculator Screenshot](calculator-screenshot.png)
+
